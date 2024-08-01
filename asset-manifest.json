@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebMasters-Week4-Task4.2/static/css/main.e6c13ad2.css",
+    "main.js": "/WebMasters-Week4-Task4.2/static/js/main.c9f460f8.js",
+    "static/js/453.93834e7d.chunk.js": "/WebMasters-Week4-Task4.2/static/js/453.93834e7d.chunk.js",
+    "index.html": "/WebMasters-Week4-Task4.2/index.html",
+    "main.e6c13ad2.css.map": "/WebMasters-Week4-Task4.2/static/css/main.e6c13ad2.css.map",
+    "main.c9f460f8.js.map": "/WebMasters-Week4-Task4.2/static/js/main.c9f460f8.js.map",
+    "453.93834e7d.chunk.js.map": "/WebMasters-Week4-Task4.2/static/js/453.93834e7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c9f460f8.js"
+  ]
+}
